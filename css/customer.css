@@ -252,10 +252,10 @@ button {
 }
 @keyframes menu-txt-open {
     0%, 70% {
-        opacity:0;
+        opacity: 0;
     }
     100% {
-        opacity:1;
+        opacity: 1;
     }
 }
 /*burger-menu*/
@@ -732,6 +732,9 @@ button {
     }
     .join img {
         width: 90%
+    }
+    .burger-menu {
+        display: block;
     }
 }
 
